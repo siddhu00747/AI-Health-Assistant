@@ -15,7 +15,7 @@ It uses NLP and machine learning to simulate doctor-like interactions, making he
 
 Clone the repository and install the required dependencies:
 
-```bash
+
 https://github.com/siddhu00747/AI-Health-Assistant.git
 
 
