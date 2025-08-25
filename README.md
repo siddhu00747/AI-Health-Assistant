@@ -12,6 +12,7 @@ It uses NLP and machine learning to simulate doctor-like interactions, making he
 ⚡ Personalized Suggestions – Recommendations based on user history and context.
 
 🌐 Accessibility – Multi-lingual support (English + Hinglish).
+
 Clone the repository and install the required dependencies:
 
 ```bash
