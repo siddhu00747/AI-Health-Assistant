@@ -12,4 +12,8 @@ It uses NLP and machine learning to simulate doctor-like interactions, making he
 ⚡ Personalized Suggestions – Recommendations based on user history and context.
 
 🌐 Accessibility – Multi-lingual support (English + Hinglish).
+Clone the repository and install the required dependencies:
+
+```bash
+https://github.com/siddhu00747/AI-Health-Assistant.git
 ![Image](https://github.com/user-attachments/assets/428f6155-646e-4269-879c-a28dc42b05b9)
